@@ -1,0 +1,7 @@
+D:\TranThanhVu-1706020102-11TH2C\baithicuoiki\baithicuoiki\obj\Debug\baithicuoiki.csprojResolveAssemblyReference.cache
+D:\TranThanhVu-1706020102-11TH2C\baithicuoiki\baithicuoiki\obj\Debug\baithicuoiki.MainForm.resources
+D:\TranThanhVu-1706020102-11TH2C\baithicuoiki\baithicuoiki\obj\Debug\baithicuoiki.csproj.GenerateResource.Cache
+D:\TranThanhVu-1706020102-11TH2C\baithicuoiki\baithicuoiki\bin\Debug\baithicuoiki.exe
+D:\TranThanhVu-1706020102-11TH2C\baithicuoiki\baithicuoiki\bin\Debug\baithicuoiki.pdb
+D:\TranThanhVu-1706020102-11TH2C\baithicuoiki\baithicuoiki\obj\Debug\baithicuoiki.exe
+D:\TranThanhVu-1706020102-11TH2C\baithicuoiki\baithicuoiki\obj\Debug\baithicuoiki.pdb
